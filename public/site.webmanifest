@@ -1,7 +1,7 @@
 {
-  "name": "{{TOOL_NAME}}",
-  "short_name": "{{TOOL_SHORT_NAME}}",
-  "description": "{{TOOL_DESCRIPTION}}",
+  "name": "JSON to GraphQL",
+  "short_name": "JSON→GQL",
+  "description": "Convert JSON data to GraphQL Schema Definition Language instantly. Smart type inference, nested types, and list fields.",
   "icons": [
     {
       "src": "/favicon.svg",
@@ -22,7 +22,7 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "{{BRAND_COLOR}}",
+  "theme_color": "#a855f7",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait-primary",
